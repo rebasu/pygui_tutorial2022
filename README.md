@@ -1,5 +1,5 @@
 # pygui_tutorial2022
-Project tutorial for UNCLE ENGINEER class
+Project tutorial for UNCLE ENGINEER class.
 This project contains 5 tabs in GUI, 1 tab is WIP.
 - TAB1: (Crypto) Currenct exchange in THB
   - 3 inputs
